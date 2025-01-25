@@ -1,4 +1,4 @@
-import telebot
+7576609431:AAFHevv9TqZz48LCRV84eHYI3FkmDLepMfwimport telebot
 import pandas as pd
 import os
 
