@@ -1,1 +1,1 @@
-# ParaggeliesAI_bot
+# ParaggeliesBot_bot
